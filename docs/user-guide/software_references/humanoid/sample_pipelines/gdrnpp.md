@@ -27,7 +27,7 @@ Image ──► YOLOX (detection) ──► GDRN (pose estimation)
                               Optional: Depth Refine ──► Refined 6D Poses
 ```
 
-```{image} assets/images/gdrnpp-pose-estimation-pipeline.png
+```{image} ../assets/images/gdrnpp-pose-estimation-pipeline.png
 :alt: GDRNPP pose estimation and depth refinement workflow
 :align: center
 ```
